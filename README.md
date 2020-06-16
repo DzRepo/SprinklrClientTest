@@ -1,2 +1,2 @@
 # SprinklrClientTest
-A console test application that uses the SprinklrClientLibrary
+A console test application that uses the SprinklrClient Library
